@@ -1,48 +1,50 @@
-	[{
-		"id":1,
-		"img_url":"http://file.homeins.cn/FsGvWU-VhcEkBNUsxRmif0xD12HR",
-		"movieName":"我不是药神",
-		"link_url":"https://m.douban.com/movie/subject/26752088/?refer=home"
-	},
-	{
-		"id":2,
-		"img_url":"http://file.homeins.cn/FpAVSnGag3e3Yr1CWAbx_GcP2bwh",
-		"movieName":"动物世界",
-		"link_url":"https://m.douban.com/movie/subject/26925317/?refer=home"
-	},
-	{
-		"id":3,
-		"img_url":"http://file.homeins.cn/FlFYTtAwh0cduetWyjV2iUYT93bk",
-		"movieName":"侏罗纪世界2",
-		"link_url":"https://m.douban.com/movie/subject/26416062/?refer=home"
-	},
-	{
-		"id":4,
-		"img_url":"http://file.homeins.cn/FlmCqjwipXY7RsFgip1rYhnes4Oa",
-		"movieName":"超人总动员2",
-		"link_url":"https://m.douban.com/movie/subject/25849049/?refer=home"
-	},
-	{
-		"id":5,
-		"img_url":"http://file.homeins.cn/Fo0iQ_1OF59ZTrWwBAIGudmrtrvZ",
-		"movieName":"金蝉脱壳2：冥府",
-		"link_url":"https://m.douban.com/movie/subject/26905469/?refer=home"
-	},
-	{
-		"id":6,
-		"img_url":"http://file.homeins.cn/Fhcig5MC21zt4rxf5xxTLqucpgx8",
-		"movieName":"猛虫过江",
-		"link_url":"https://m.douban.com/movie/subject/26818314/"
-	},
-	{
-		"id":7,
-		"img_url":"http://file.homeins.cn/FodOAGuhrqXkT3Ygr6JftrD_PQ5S",
-		"movieName":"阿飞正传",
-		"link_url":"https://m.douban.com/movie/subject/1305690/"
-	},
-	{
-		"id":8,
-		"img_url":"http://file.homeins.cn/FrnWysBPQZZRIUGZYx8ReAPUb2vc",
-		"movieName":"生存家族",
-		"link_url":"https://m.douban.com/movie/subject/26815162/"
-	}]
+[
+  {
+    "id": 1,
+    "img_url": "http://file.homeins.cn/FsGvWU-VhcEkBNUsxRmif0xD12HR",
+    "movieName": "我不是药神",
+    "link_url": "https://m.douban.com/movie/subject/26752088/?refer=home"
+  },
+  {
+    "id": 2,
+    "img_url": "http://file.homeins.cn/FpAVSnGag3e3Yr1CWAbx_GcP2bwh",
+    "movieName": "动物世界",
+    "link_url": "https://m.douban.com/movie/subject/26925317/?refer=home"
+  },
+  {
+    "id": 3,
+    "img_url": "http://file.homeins.cn/FlFYTtAwh0cduetWyjV2iUYT93bk",
+    "movieName": "侏罗纪世界2",
+    "link_url": "https://m.douban.com/movie/subject/26416062/?refer=home"
+  },
+  {
+    "id": 4,
+    "img_url": "http://file.homeins.cn/FlmCqjwipXY7RsFgip1rYhnes4Oa",
+    "movieName": "超人总动员2",
+    "link_url": "https://m.douban.com/movie/subject/25849049/?refer=home"
+  },
+  {
+    "id": 5,
+    "img_url": "http://file.homeins.cn/Fo0iQ_1OF59ZTrWwBAIGudmrtrvZ",
+    "movieName": "金蝉脱壳2：冥府",
+    "link_url": "https://m.douban.com/movie/subject/26905469/?refer=home"
+  },
+  {
+    "id": 6,
+    "img_url": "http://file.homeins.cn/Fhcig5MC21zt4rxf5xxTLqucpgx8",
+    "movieName": "猛虫过江",
+    "link_url": "https://m.douban.com/movie/subject/26818314/"
+  },
+  {
+    "id": 7,
+    "img_url": "http://file.homeins.cn/FodOAGuhrqXkT3Ygr6JftrD_PQ5S",
+    "movieName": "阿飞正传",
+    "link_url": "https://m.douban.com/movie/subject/1305690/"
+  },
+  {
+    "id": 8,
+    "img_url": "http://file.homeins.cn/FrnWysBPQZZRIUGZYx8ReAPUb2vc",
+    "movieName": "生存家族",
+    "link_url": "https://m.douban.com/movie/subject/26815162/"
+  }
+]
